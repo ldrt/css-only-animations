@@ -1,1 +1,2 @@
-This is Lucie's first fit project!
+This is Lucie's first git project!
+Freecodecamp.org files
